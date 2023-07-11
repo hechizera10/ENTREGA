@@ -36,6 +36,3 @@ No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A c
 4. Comience a agregar estilos en la parte superior de la página y continúe hacia abajo.
 5. Deje comentarios en el codigo en caso que lo crea necesario
 
-## Envío de su solución
-
-Envíe su solución en el google forms adjunto en PG, por favor adjuntar un archivo ZIP.
