@@ -6,15 +6,15 @@ Sus usuarios deberían poder:
 
 - Ver el diseño óptimo para el sitio según el tamaño de la pantalla de su dispositivo
 - Los aspectos que tendremos en cuenta para la corrección serán los siguientes:
- V -Estructura correcta de HTML 
- V -Uso y correcta implementación de etiquetas semánticas 
-  -Adaptabilidad a dos tipos de dispositivos
-  -Correcta implementación del fomulario
- V -Imagens, iconos, fuentes, background 
-  -Implementación de Flexbox
-  -Buenas Practicas en el CSS
-  -Pseudoelementos y Pseudoclases
-  -(opcional) ---> Pequeñas animaciones
+  - Estructura correcta de HTML 
+  - Uso y correcta implementación de etiquetas semánticas 
+  - Adaptabilidad a dos tipos de dispositivos
+  - Correcta implementación del fomulario
+  - Imagenes, iconos, fuentes, background 
+  - Implementación de Flexbox
+  - Buenas Practicas en el CSS
+  - Pseudoelementos y Pseudoclases
+  - (opcional) ---> Pequeñas animaciones
 
 ## Dónde encontrar todo
 
