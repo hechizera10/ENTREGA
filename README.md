@@ -1,6 +1,11 @@
 ## El reto
 
-Su desafío es crear esta página de destino y hacer que se parezca lo más posible al diseño.
+Su desafío es crear [esta página de destino](resources/diseño/Desktop.jpg) y hacer que se parezca lo más posible al diseño.
+
+
+<div align="center"><img src="resources/diseño/Desktop.jpg" width="200px" align="top" alt="Desktop"/> <img src="resources/diseño/Mobile.jpg" overflow=" hidden" height="50%" width="100px" alt="Mobile"/></div>
+
+
 
 Sus usuarios deberían poder:
 
@@ -18,13 +23,13 @@ Sus usuarios deberían poder:
 
 ## Dónde encontrar todo
 
-Su tarea es construir el proyecto con los diseños dentro de la carpeta `/ diseño`. Encontrará una versión móvil y de escritorio del diseño.
+Su tarea es construir el proyecto con los diseños dentro de la carpeta [/ diseño](resources/diseño). Encontrará una versión móvil y de escritorio del diseño.
 
 El diseño para mobile esta en formato estático JPG. Si desea hacerle cambios esteticos lo puede hacer a su gusto
 
-Encontrará todos los recursos necesarios en la carpeta `/ imagenes`. Los activos ya están optimizados.
+Encontrará todos los recursos necesarios en la carpeta [/ imagenes](resources/imagenes). Los activos ya están optimizados.
 
-También hay un archivo `style-guide.md` que contiene la información necesaria, como la paleta de colores y las fuentes.
+También hay un archivo [style-guide.md](style-guide.md) que contiene la información necesaria, como la paleta de colores y las fuentes.
 
 ## Construyendo tu proyecto
 
